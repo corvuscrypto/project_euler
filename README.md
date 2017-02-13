@@ -1,10 +1,4 @@
-# project Euler
-Written programs to solve project euler problems in various languages
+# problem 1
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-Each problem will have its own branch to work on. This is just so I can happily
-keep things separated.
-
-The Master branch (this one) will contain the master readme and also some basic
-info.
-
-Problems solved so far: 0
+Find the sum of all the multiples of 3 or 5 below 1000.
